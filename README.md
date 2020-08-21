@@ -1,5 +1,5 @@
 # upload-server
-上传服务，bee-upload 组件的测试用例
+文件上传服务，bee-upload 组件的测试用例
 
 ## 启动服务
 ```

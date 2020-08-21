@@ -1,7 +1,7 @@
 {
   "name": "upload-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "nodejs 文件上传服务端实现",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
